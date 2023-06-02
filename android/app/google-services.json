@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392718642751",
+    "project_id": "derya-764a0",
+    "storage_bucket": "derya-764a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392718642751:android:defb67c7c96f302249928a",
+        "android_client_info": {
+          "package_name": "com.example.bugun_ne_yesem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392718642751-9i1k3qjt3i3i287fu1lp29ntk58l0udu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3agKfqk7jScHnOk7IbihQL7iCMZG_tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392718642751-9i1k3qjt3i3i287fu1lp29ntk58l0udu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
